@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TimeTrackerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PrevProgramRunningTime>2015-10-13T15:23:43.5945163+03:00</PrevProgramRunningTime>
+  <PrevKeyPressTime>2015-10-13T15:23:36.6105816+03:00</PrevKeyPressTime>
+  <MinimumIdleMinutes>15</MinimumIdleMinutes>
+  <Projects>
+    <Project Name="General">
+      <SubProjects>
+        <Project Name="Recruitment">
+          <SubProjects />
+        </Project>
+      </SubProjects>
+    </Project>
+  </Projects>
+  <Activities>
+    <Activity>
+      <Type>Idle</Type>
+      <StartTime>2015-10-09T17:22:21.0359602+03:00</StartTime>
+      <EndTime>2015-10-11T10:13:20.6694966+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Work</Type>
+      <Project />
+      <Description>hour reporting</Description>
+      <StartTime>2015-10-11T10:13:21.6701366+03:00</StartTime>
+      <EndTime>2015-10-11T10:55:23.0854904+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Work</Type>
+      <Project />
+      <Description>NAPA-38701 C# AI: parameters statement fixing</Description>
+      <StartTime>2015-10-11T10:55:23.9669239+03:00</StartTime>
+      <EndTime>2015-10-11T12:08:23.6193543+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Idle</Type>
+      <StartTime>2015-10-11T12:08:23.6193543+03:00</StartTime>
+      <EndTime>2015-10-11T17:47:12.5030898+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Work</Type>
+      <Project />
+      <Description>NAPA-38701 C# AI: parameters statement fixing</Description>
+      <StartTime>2015-10-11T17:47:19.1625614+03:00</StartTime>
+      <EndTime>2015-10-11T18:32:12.96314+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Idle</Type>
+      <StartTime>2015-10-11T18:32:12.96314+03:00</StartTime>
+      <EndTime>2015-10-12T09:53:05.0411882+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Work</Type>
+      <Project />
+      <Description>NAPA-38701 C# AI: fixing unknown variable error in WPF SC test</Description>
+      <StartTime>2015-10-12T09:53:10.3163019+03:00</StartTime>
+      <EndTime>2015-10-12T10:57:23.1630024+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Idle</Type>
+      <StartTime>2015-10-12T10:57:23.1630024+03:00</StartTime>
+      <EndTime>2015-10-12T11:30:13.2484471+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Work</Type>
+      <Project />
+      <Description>WPF SC Mgr fixing test_solas_2009_regulation_9</Description>
+      <StartTime>2015-10-12T11:30:38.1294897+03:00</StartTime>
+      <EndTime>2015-10-12T16:03:32.1753931+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Idle</Type>
+      <StartTime>2015-10-12T16:03:32.1753931+03:00</StartTime>
+      <EndTime>2015-10-13T08:59:48.83303+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Work</Type>
+      <Project />
+      <Description>WPF SC Mgr fixing test_solas_2009_regulation_9</Description>
+      <StartTime>2015-10-13T09:00:25.7324822+03:00</StartTime>
+      <EndTime>2015-10-13T10:02:23.0542387+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Work</Type>
+      <Project />
+      <Description>NAPA-40305 Prompt changes from HYD?&gt; to DOC?&gt; after printing</Description>
+      <StartTime>2015-10-13T10:02:23.0542387+03:00</StartTime>
+      <EndTime>2015-10-13T10:20:32.6644502+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Work</Type>
+      <Project />
+      <Description>NAPA-38701 C# AI: speed testing</Description>
+      <StartTime>2015-10-13T10:20:33.0614982+03:00</StartTime>
+      <EndTime>2015-10-13T11:02:16.0079275+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Idle</Type>
+      <StartTime>2015-10-13T11:02:16.0079275+03:00</StartTime>
+      <EndTime>2015-10-13T11:56:32.851787+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Work</Type>
+      <Project />
+      <Description>NAPA-38701 C# AI: standard tests</Description>
+      <StartTime>2015-10-13T11:56:43.0918912+03:00</StartTime>
+      <EndTime>2015-10-13T14:01:34.9877178+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Work</Type>
+      <Project />
+      <Description>Sonarcube fortran presentation</Description>
+      <StartTime>2015-10-13T14:01:34.9877178+03:00</StartTime>
+      <EndTime>2015-10-13T15:21:36.0859887+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>NotRunning</Type>
+      <StartTime>2015-10-13T15:21:36.0859887+03:00</StartTime>
+      <EndTime>2015-10-13T15:23:36.5920712+03:00</EndTime>
+    </Activity>
+    <Activity>
+      <Type>Unknown</Type>
+      <StartTime>2015-10-13T15:23:36.6035768+03:00</StartTime>
+      <EndTime>2015-10-13T15:23:43.5945163+03:00</EndTime>
+    </Activity>
+  </Activities>
+</TimeTrackerData>
